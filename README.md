@@ -19,7 +19,6 @@
 
 ## GitHub активность
 
-|----------------|----------------|
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vividtomato&theme=radical) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vividtomato&theme=radical) |
 
 ---
