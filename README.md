@@ -40,7 +40,7 @@
   <h2 style="color: #6F4E2E; border-bottom: 1px solid #E6D5C0; padding-bottom: 5px;">Сейчас в работе</h2>
 
   <p style="background-color: #FAF4EA; padding: 12px; border-radius: 10px; color: #5A3E28;">
-    <strong>несколько мини-проектов для души и опыта</strong>
+    <strong>Несколько мини-проектов для души и опыта</strong>
   </p>
 
   <hr style="border: none; border-top: 1px solid #E6D5C0; margin: 20px 0;" />
