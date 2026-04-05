@@ -1,16 +1,33 @@
-## Hi there 👋
+# ☕ София Скрябина
 
-<!--
-**vividtomato/vividtomato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Python‑разработчик · Backend · QA
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Стек
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="45" height="45"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="45" height="45"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="45" height="45"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" height="45"/>
+
+---
+
+## GitHub активность
+
+|----------------|----------------|
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vividtomato&theme=radical) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vividtomato&theme=radical) |
+
+---
+
+## Сейчас в работе
+
+**Несколько мини-проектов для души и опыта**
+
+---
+
+> *Обновлено: апрель 2026*
